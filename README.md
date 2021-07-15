@@ -1,6 +1,6 @@
 ### Hi there, you can call me Mail 👋
 
-[dart]
+Chat on Telegram Latest Version on Packagist Software License SensioLabsInsight Quality Score Total Downloads
 
 <!--
 **iyghozahdi/iyghozahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
