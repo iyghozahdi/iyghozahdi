@@ -1,6 +1,6 @@
 ### Hi there, you can call me Mail 👋
 
-[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[dart]
 
 <!--
 **iyghozahdi/iyghozahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
